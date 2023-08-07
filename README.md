@@ -1,7 +1,7 @@
 # EMC-GAN for condition monitoring with emerging new classes
 Welcome to the GitHub repository for EMC-GAN, a Python implementation of a GAN-based method designed to address the challenges posed by Streaming Data with Emerging New Classes (SENC) in condition monitoring of rotating machinery.
 
-# Research Manuscripts
+## Research Manuscripts ##
 We have conducted extensive research on this method, and the results have been documented in the following manuscripts:
 
 **1. Journal Manuscript**:
