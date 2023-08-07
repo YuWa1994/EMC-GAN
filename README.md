@@ -9,7 +9,9 @@ We have conducted extensive research on this method, and the results have been d
 * Authors: Yu Wang, Q. Wang, S. Bernat, A. Vinogradov
 * Status: Under review
 * Link to Preprint: (https://www.techrxiv.org/articles/preprint/Semi-supervised_deep_architecture_for_classification_in_streaming_data_with_emerging_new_classes_application_in_condition_monitoring/21931476/1)
+
 Note: The preprint version only contains the results for benchmark datasets.
+
 
 **2. Conference Manuscript**: 
 * Title: Ensembled Multi-Classification Generative Adversarial Network for Condition Monitoring in Streaming Data with Emerging New Classes
