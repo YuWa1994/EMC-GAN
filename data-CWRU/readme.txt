@@ -1,0 +1,1 @@
+Please unzip the dataset 'CWRU4-6-V2' before run 'run_EMCGAN_CWRU.py'
